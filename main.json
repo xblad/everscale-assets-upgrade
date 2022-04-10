@@ -133,6 +133,13 @@
       "rootV4": "0:ced4179b55a060cc98978956c08fb7ea6495d5dd4258ea59b5f320affd15ed32",
       "rootV5": "0:b5ff077d8ac0160559bd3c945a2a824cda12ba93ae90c2697c890656d52fc7d0",
       "proxy": "0:661138e46a596433054ce5bcec2ac30a5730944b76c2ee5a6484bdf2bd702f56"
+    },
+    {
+      "symbol": "4EVER20",
+      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/MOON/logo.svg",
+      "rootV4": "0:d4599ba2fa6789f6d16c3932f34540a5c6a42e781f547b1953c1b7ae9a39903f",
+      "rootV5": "0:ee0063950b51b5ba58bdc5396638e49284c9a3ea4ee4d4f41f72d086aa1b5180",
+      "proxy": "0:432353ad25fbf5e2a3695bbb7733399f650287682060dd8089f2c9bfc7eb012d"
     }
   ]
 }

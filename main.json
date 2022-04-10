@@ -137,8 +137,8 @@
     {
       "symbol": "4EVER20",
       "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/MOON/logo.svg",
-      "rootV5": "0:d4599ba2fa6789f6d16c3932f34540a5c6a42e781f547b1953c1b7ae9a39903f",
-      "rootV4": "0:ee0063950b51b5ba58bdc5396638e49284c9a3ea4ee4d4f41f72d086aa1b5180",
+      "rootV4": "0:d4599ba2fa6789f6d16c3932f34540a5c6a42e781f547b1953c1b7ae9a39903f",
+      "rootV5": "0:ee0063950b51b5ba58bdc5396638e49284c9a3ea4ee4d4f41f72d086aa1b5180",
       "proxy": "0:432353ad25fbf5e2a3695bbb7733399f650287682060dd8089f2c9bfc7eb012d"
     }
   ]
